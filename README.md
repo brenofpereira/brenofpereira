@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello mate👋 
+Sou estudante de Ciências e Tecnologia na <a href="https://www.ufrn.br/">UFRN</a> 
+<br/>
+E também formado como Técnico em Informática no <a href="https://portal.ifrn.edu.br/">IFRN</a>
+
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brenofpereira/) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=LinkedinlogoColor=white)](https://www.instagram.com/brenofpereira/) 
+
+
 
 <!--
 **brenofpereira/brenofpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
