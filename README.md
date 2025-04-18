@@ -5,7 +5,9 @@ E também formado como Técnico em Informática no <a href="https://portal.ifrn.
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brenofpereira/) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=LinkedinlogoColor=white)](https://www.instagram.com/brenofpereira/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenofpereira/)
+
+
 
 
 
