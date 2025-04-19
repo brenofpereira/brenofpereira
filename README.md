@@ -9,12 +9,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
 -->
 # 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
-![Javascript](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=blue) 
+![React](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=black) 
 ![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/html5-B03D0C.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-115B92.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-8E1E1F.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05539?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-22262A?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofpereira&layout=compact&theme=dark)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
