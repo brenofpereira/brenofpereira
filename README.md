@@ -3,7 +3,6 @@
 <img src="https://github.com/user-attachments/assets/b074040a-a2d9-484f-bb5e-a3ccc541f166" alt="solo leveling pfp" align=left width="80"/>
 
 </br>
-</br>
 
 <!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
