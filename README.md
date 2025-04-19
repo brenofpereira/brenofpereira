@@ -4,10 +4,10 @@
 
 </br>
 
-## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
+<!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
-
+-->
 # 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
 ![Javascript](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=blue) 
 ![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) 
