@@ -1,5 +1,10 @@
 # Hello mates👋 
-Me chamo Breno Pereira e sou Desenvolvedor Front-end. 
+Me chamo Breno Pereira e sou Desenvolvedor Front-end💻. 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia) 
+<img src="https://github.com/user-attachments/assets/b074040a-a2d9-484f-bb5e-a3ccc541f166" alt="solo leveling pfp" align=left width="100"/>
+
+</br>
 
 ## Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
