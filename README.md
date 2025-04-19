@@ -2,7 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=𝗢𝗹á,+𝙢𝙚+𝙘𝙝𝙖𝙢𝙤+𝘽𝙧𝙚𝙣𝙤+𝙋𝙚𝙧𝙚𝙞𝙧𝙖👾;𝙎𝙤𝙪+𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧+𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙</>⚛;𝙴+𝚊𝚙𝚊𝚒𝚡𝚘𝚗𝚊𝚍𝚘+𝚙𝚘𝚛+𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊👩🏻‍💻) 
 <img src="https://github.com/user-attachments/assets/b074040a-a2d9-484f-bb5e-a3ccc541f166" alt="solo leveling pfp" align=left width="80"/>
 
-
+</br>
+</br>
 
 <!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
