@@ -1,16 +1,14 @@
-# Hello mates👋 
-Me chamo Breno Pereira e sou Desenvolvedor Front-end💻. 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia) 
-<img src="https://github.com/user-attachments/assets/b074040a-a2d9-484f-bb5e-a3ccc541f166" alt="solo leveling pfp" align=left width="100"/>
+# 𝐻𝑒𝑙𝑙𝑜 𝑚𝑎𝑡𝑒𝑠👋 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=𝗢𝗹á,+𝙢𝙚+𝙘𝙝𝙖𝙢𝙤+𝘽𝙧𝙚𝙣𝙤+𝙋𝙚𝙧𝙚𝙞𝙧𝙖👾;𝙎𝙤𝙪+𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧+𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙</>⚛;𝙴+𝚊𝚙𝚊𝚒𝚡𝚘𝚗𝚊𝚍𝚘+𝚙𝚘𝚛+𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊👩🏻‍💻) 
+<img src="https://github.com/user-attachments/assets/b074040a-a2d9-484f-bb5e-a3ccc541f166" alt="solo leveling pfp" align=left width="80"/>
 
 </br>
 
-## Redes Sociais:
+## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
 
-# Tech Stack:
+# 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
 ![Javascript](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=blue) 
 ![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/html5-B03D0C.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +20,7 @@ Me chamo Breno Pereira e sou Desenvolvedor Front-end💻.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <details>
-  <summary>Resumo</summary>
+  <summary>𝐑𝐞𝐬𝐮𝐦𝐨</summary>
 
 # Educação
 
