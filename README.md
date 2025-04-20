@@ -1,19 +1,22 @@
 # 𝐻𝑒𝑙𝑙𝑜 𝑚𝑎𝑡𝑒𝑠👋 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=𝗢𝗹á,+𝙢𝙚+𝙘𝙝𝙖𝙢𝙤+𝘽𝙧𝙚𝙣𝙤+𝙋𝙚𝙧𝙚𝙞𝙧𝙖;𝙎𝙤𝙪+𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧+𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙;𝙴+𝚊𝚙𝚊𝚒𝚡𝚘𝚗𝚊𝚍𝚘+𝚙𝚘𝚛+𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊) 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Olá,+me+chamo+Breno+Pereira;Sou+desenvolvedor+Front-end;E+apaixonado+por+tecnologia) 
 
 <!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
 -->
 # 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
-![React](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=black) 
-![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/html5-B03D0C.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-115B92.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-8E1E1F.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05539?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-22262A?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofpereira&layout=compact&theme=dark)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
