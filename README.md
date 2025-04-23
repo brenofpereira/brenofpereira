@@ -1,5 +1,4 @@
-# 𝐻𝑒𝑙𝑙𝑜 𝑚𝑎𝑡𝑒𝑠👋 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Olá,+me+chamo+Breno+Pereira;Sou+desenvolvedor+Front-end;E+apaixonado+por+tecnologia) 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=HELLO,+my+name+is+Breno+Pereira;I'm+Front-end+Developer;and++passionate+about+technology) 
 
 <!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
