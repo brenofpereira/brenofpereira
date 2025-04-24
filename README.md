@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=HELLO,+my+name+is+Breno+Pereira;I'm+Front-end+Developer;and++passionate+about+technology) 
 
-<!--## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/brenofpereira/) 
+## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style-for-the-badge&logo=instagram&logor=white.svg)](https://www.instagram.com/brenofpereira/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
--->
+
 # 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
