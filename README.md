@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=HELLO,+my+name+is+Breno+Pereira;I'm+from+Natal/RN+and+a+Front-end+developer) 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=HELLO,+my+name+is+Breno+Pereira;I'm+from+Natal/RN;and+a+Front-end+developer) 
 
 ## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style-for-the-badge&logo=instagram&logor=white.svg)](https://www.instagram.com/brenofpereira/) 
