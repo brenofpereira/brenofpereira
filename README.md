@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=HELLO,+my+name+is+Breno+Pereira;I'm+Front-end+Developer;and++passionate+about+technology) 
 
-## 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜:
+## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style-for-the-badge&logo=instagram&logor=white.svg)](https://www.instagram.com/brenofpereira/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/brenofpereira/)
 
@@ -24,15 +24,15 @@
 <details>
   <summary>𝐑𝐞𝐬𝐮𝐦𝐨</summary>
 
-# Educação
+# Education 
 
-🎓 Técnico em Informática </br>
-📆 Fevereiro/2019 - Janeiro/2023 </br>
+🎓 Computer Technician </br>
+📆 February/2019 - January/2023 </br>
 📍 <a href="https://portal.ifrn.edu.br/">IFRN</a> - São Gonçalo do Amarante/RN
 __________________________________________
 
-⌛ Ciências e Tecnologia </br>
-📆 Março/2025 - Previsão (2027.2) </br>
+⌛ Science and Technology </br>
+📆 March/2025 - Forecast (2027.2) </br>
 📍 <a href="https://www.ufrn.br/">UFRN</a>  - Natal/RN
 
 
