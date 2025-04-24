@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <details>
-  <summary>𝐑𝐞𝐬𝐮𝐦𝐨</summary>
+  <summary>Resume</summary>
 
 # Education 
 
